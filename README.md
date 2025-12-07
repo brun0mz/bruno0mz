@@ -1,19 +1,14 @@
-# 👋 Hi, I'm Bruno
+<h2 align="center">Bruno — Robotics & AI</h2>
 
-I build intelligent systems at the intersection of robotics, digital systems, and AI.
+<p align="center">
+Engineering intelligent systems with clean design and real-world impact.
+</p>
 
-### What I do
-- Robotics & embedded systems  
-- Machine learning & intelligent control  
-- High-performance digital design  
-- Autonomous systems research  
+### 🧭 Areas
+- Robotics · Control · Digital Systems  
+- Machine Learning · AI for autonomy  
 
-### Tech I use
-Python · C++ · ROS2 · TensorFlow · PyTorch · Verilog · Linux
-
-### Currently learning
-Advanced AI systems & applied ML for robotics.
+### 🛠 Tooling
+Python · C++ · ROS2 · TensorFlow · Verilog  
 
 ---
-
-**“Simplicity is the ultimate sophistication.”**
