@@ -12,4 +12,4 @@ Engineering intelligent systems with clean design and real-world impact.
 Python · C++ · ROS2 · TensorFlow · Verilog  
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno0mz)](https://github.com/bruno0mz/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno0mz&show_icons=true&theme=transparent)
